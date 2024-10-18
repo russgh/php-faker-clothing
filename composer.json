@@ -1,14 +1,14 @@
 {
   "name": "rauwebieten/php-faker-clothing",
   "require": {
-    "fakerphp/faker": "2.0"
+    "fakerphp/faker"
   },
   "require-dev": {
     "symfony/var-dumper": "^3.3.9"
   },
   "autoload": {
     "psr-4": {
-      "RauweBieten\\PhpFakerClothing\\": "src/"
+      "russgh\\PhpFakerClothing\\": "src/"
     }
   }
 }
