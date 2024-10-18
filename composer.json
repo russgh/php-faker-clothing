@@ -1,5 +1,5 @@
 {
-  "name": "rauwebieten/php-faker-clothing",
+  "name": "russgh/php-faker-clothing",
   "require": {
     "fakerphp/faker"
   },
